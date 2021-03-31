@@ -1,0 +1,30 @@
+
+ 2021-03-21 17:16:18,709 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-21 17:16:21,953 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-21 17:16:23,223 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-21 17:16:31,846 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-21 17:16:33,987 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-21 17:16:37,153 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-21 17:16:42,233 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-21 17:16:46,304 studentinfotest.py test2_upload_headimg 20: [INFO] ---> 人脸上传成功 
+
+
+ 2021-03-21 17:16:48,958 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-21 17:16:51,116 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+

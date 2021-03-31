@@ -1,0 +1,677 @@
+
+ 2021-03-28 15:02:19,039 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:02:24,300 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:02:46,367 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='file1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 15:03:08,178 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:03:10,341 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:07:34,351 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:07:39,946 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:08:02,269 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='file1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 15:08:05,815 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:08:08,025 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:08:56,910 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:09:02,489 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:09:07,506 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:09:09,693 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:10:12,615 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:10:17,898 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:10:42,090 basepage.py by_xpath 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='人脸上传成功']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 15:10:44,903 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:10:47,103 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:36:57,919 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:37:21,828 basepage.py by_xpath 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div[1]/div[2]/div[1]/ul/li[3]/span"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 15:37:44,209 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:37:49,013 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:37:54,244 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:38:01,094 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:38:03,284 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:39:28,420 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:39:33,229 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:39:40,086 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:39:42,287 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:40:45,845 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:40:51,139 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:40:58,118 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:41:00,294 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:41:30,007 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:41:35,533 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:41:42,481 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:41:44,619 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:43:01,673 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:43:07,079 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:43:13,960 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:43:16,150 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:46:11,571 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:46:16,358 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:46:23,199 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:46:25,510 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:46:52,565 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:46:57,770 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:47:04,534 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:47:06,712 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:48:11,108 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:48:16,261 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:48:23,034 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:48:25,196 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:52:38,227 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:52:43,520 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:52:50,396 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:52:52,619 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:53:59,382 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:54:04,577 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:54:10,437 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:54:13,267 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:56:03,662 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:56:09,098 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:56:14,986 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:56:17,163 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:56:44,996 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:56:50,241 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:56:56,169 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:56:58,355 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:57:28,009 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:57:33,247 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:57:41,007 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:57:43,169 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 15:58:06,792 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 15:58:12,113 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 15:58:19,772 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 15:58:21,938 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:00:57,074 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:01:02,281 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:01:09,983 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:01:12,168 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:01:31,018 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:01:36,235 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:01:44,010 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:01:46,176 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:04:06,511 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:04:11,810 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:04:16,639 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:04:18,812 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:04:49,628 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:04:54,811 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:04:59,813 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:05:02,536 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:20:54,943 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:21:00,494 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:21:10,355 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:21:12,536 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:22:25,277 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:22:30,699 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:22:38,403 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:22:40,577 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:23:05,268 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:23:10,694 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:23:18,349 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:23:20,546 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:23:58,747 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:24:04,102 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:24:11,670 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:24:13,839 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:33:21,058 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:33:26,317 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:33:34,269 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:33:36,434 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:48:16,255 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:48:21,625 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:48:26,757 studentinfotest.py test2_upload_headimg 20: [INFO] --->  :: 请换一张人脸图片再试 != 人脸上传成功 
+
+
+ 2021-03-28 16:48:27,115 basepage.py save_screenshots 20: [INFO] ---> 截取网页成功，文件路径为：E:\BaiduNetdiskDownload\pycharm 2018.1.3\zhxy_web\Screenshot\学生信息测试_2021-03-28 16-48-26.png 
+
+
+ 2021-03-28 16:48:29,824 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:48:32,073 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:54:23,834 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:54:29,265 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:54:34,407 studentinfotest.py test2_upload_headimg 20: [INFO] ---> 人脸上传成功 
+
+
+ 2021-03-28 16:54:37,217 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:54:39,410 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:56:45,704 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:56:51,066 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:56:53,584 studentinfotest.py test2_upload_headimg 20: [INFO] --->  ::  != 人脸上传成功 
+
+
+ 2021-03-28 16:56:54,047 basepage.py save_screenshots 20: [INFO] ---> 截取网页成功，文件路径为：E:\BaiduNetdiskDownload\pycharm 2018.1.3\zhxy_web\Screenshot\学生信息测试_2021-03-28 16-56-53.png 
+
+
+ 2021-03-28 16:56:56,893 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:56:59,140 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 16:57:27,914 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 16:57:33,343 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 16:57:36,475 studentinfotest.py test2_upload_headimg 20: [INFO] ---> 人脸上传成功 
+
+
+ 2021-03-28 16:57:39,226 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 16:57:41,395 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 21:58:01,468 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 21:58:25,423 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder='请输入学号1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 21:58:47,083 basepage.py by_xpath 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/div/section/section/div/div/div[2]/div[3]/table/tbody/tr/td[6]/div/span/i"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 21:59:08,688 basepage.py by_xpath 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/div/section/section/div/div/div[2]/div[4]/div[2]/table/tbody/tr/td[14]/div/div/button[3]"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 21:59:10,854 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 22:01:44,505 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:01:47,821 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:01:49,142 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:01:57,851 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:02:00,024 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:05:37,364 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:05:40,640 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:05:41,934 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:05:50,583 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:05:52,764 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:05:56,276 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 22:06:01,818 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 22:06:06,862 studentinfotest.py test2_upload_headimg 20: [INFO] ---> 人脸上传成功 
+
+
+ 2021-03-28 22:06:09,392 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 22:06:11,563 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 22:26:24,299 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:26:27,653 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:26:29,005 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:26:37,726 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:26:39,890 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:26:43,559 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 22:26:49,073 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 22:26:54,064 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 22:26:56,242 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 22:36:15,610 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:36:18,923 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:36:20,256 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:36:29,018 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:36:31,169 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:36:34,826 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 22:36:40,133 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 22:36:45,176 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 22:36:47,364 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 22:43:55,590 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:43:58,881 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:44:00,216 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:44:08,906 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:44:11,115 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:44:15,112 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 22:44:20,834 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 22:44:25,969 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 22:44:28,154 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 22:54:25,471 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:54:28,788 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:54:30,114 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:54:38,792 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:54:40,945 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:54:45,228 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 22:54:59,144 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-icon-plus"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 22:55:10,409 basepage.py by_xpath 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/div/section/section/div/div/div[2]/div[3]/table/tbody/tr/td[6]/div/span/i"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 22:55:23,010 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 22:55:28,362 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:55:31,670 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:55:33,008 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:55:41,992 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:55:44,141 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:55:47,931 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 22:55:53,343 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 22:55:58,477 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 22:56:00,669 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 22:56:18,575 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:56:21,882 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:56:23,262 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:56:31,907 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:56:34,109 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:56:37,637 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 22:56:51,319 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":".el-icon-plus"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-28 22:57:03,715 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-28 22:57:12,096 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-28 22:57:15,378 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-28 22:57:16,690 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-28 22:57:25,388 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-28 22:57:27,536 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-28 22:57:31,219 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-28 22:57:36,568 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-28 22:57:41,689 studentinfotest.py test2_upload_headimg 20: [INFO] ---> 人脸上传成功 
+
+
+ 2021-03-28 22:57:44,259 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-28 22:57:46,439 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+

@@ -1,0 +1,153 @@
+
+ 2021-03-25 22:24:50,266 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-25 22:24:53,486 logintest.py test1_login 20: [INFO] ---> 登录失败，网址不一致 :: https://console.2035kids.com/#/healthManage/morningNoonCheck/morningNoonCheckPreliminaryForOne != https://console.2035kids.com/#/healthManage/morningNoonCheck/morningNoonCheckPreliminaryForOne1 
+
+
+ 2021-03-25 22:24:53,940 basepage.py save_screenshots 20: [INFO] ---> 截取网页成功，文件路径为：E:\BaiduNetdiskDownload\pycharm 2018.1.3\zhxy_web\Screenshot\登录测试_2021-03-25 22-24-53.png 
+
+
+ 2021-03-25 22:24:55,268 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-25 22:25:03,887 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-25 22:25:06,087 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-25 22:32:30,332 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-25 22:32:30,349 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:32:30,854 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:32:34,235 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:32:37,031 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-25 22:40:02,287 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-25 22:40:02,313 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:40:02,313 loginpage.py user_input 20: [INFO] ---> 'NoneType' object has no attribute 'send_keys' 
+
+
+ 2021-03-25 22:40:05,536 logintest.py test1_login 20: [INFO] ---> 登录失败，网址不一致 :: https://console.2035kids.com/#/login?redirect=%2F != https://console.2035kids.com/#/healthManage/morningNoonCheck/morningNoonCheckPreliminaryForOne 
+
+
+ 2021-03-25 22:40:06,832 basepage.py save_screenshots 20: [INFO] ---> 截取网页成功，文件路径为：E:\BaiduNetdiskDownload\pycharm 2018.1.3\zhxy_web\Screenshot\登录测试_2021-03-25 22-40-05.png 
+
+
+ 2021-03-25 22:40:07,354 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:40:07,354 loginpage.py user_input 20: [INFO] ---> 'NoneType' object has no attribute 'send_keys' 
+
+
+ 2021-03-25 22:40:08,497 basepage.py by_xpath 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='账号或密码错误']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:40:11,874 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:40:11,874 loginpage.py user_input 20: [INFO] ---> 'NoneType' object has no attribute 'send_keys' 
+
+
+ 2021-03-25 22:40:17,005 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-25 22:40:19,141 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-25 22:55:27,116 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-25 22:55:27,237 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:55:27,798 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:55:31,204 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='username1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 22:55:33,387 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-25 23:17:05,350 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-25 23:17:10,541 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-25 23:17:32,549 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='file1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 23:17:35,262 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-25 23:17:37,421 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
+
+ 2021-03-25 23:28:24,574 logintest.py setUpClass 20: [INFO] ---> ******开始登陆测试****** 
+
+
+ 2021-03-25 23:28:27,852 logintest.py test1_login 20: [INFO] ---> 用例1通过 
+
+
+ 2021-03-25 23:28:29,138 logintest.py test2_login 20: [INFO] ---> 用例2通过 
+
+
+ 2021-03-25 23:28:37,735 logintest.py test3_login 20: [INFO] ---> 用例3通过 
+
+
+ 2021-03-25 23:28:39,886 logintest.py tearDownClass 20: [INFO] ---> ******结束登陆测试****** 
+
+
+ 2021-03-25 23:28:43,414 studentinfotest.py setUpClass 20: [INFO] ---> ******开始学生信息测试****** 
+
+
+ 2021-03-25 23:28:48,623 studentinfotest.py test1_add 20: [INFO] ---> 新增学生成功 
+
+
+ 2021-03-25 23:29:10,600 basepage.py by_css 20: [INFO] ---> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name='file1']"}
+  (Session info: chrome=89.0.4389.90)
+ 
+
+
+ 2021-03-25 23:29:13,313 studentinfotest.py test3_delete 20: [INFO] ---> 删除学生成功 
+
+
+ 2021-03-25 23:29:15,444 studentinfotest.py tearDownClass 20: [INFO] ---> ******结束学生信息测试****** 
+
